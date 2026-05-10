@@ -1,7 +1,5 @@
 # Compliance & Risk Intelligence Systems (CRIS)
 Framework infrastructure for compliance risk intelligence, regulatory interpretation, governance analysis, and institutional decision-support systems. Designed for structured compliance reasoning , regulatory mapping, risk classification, and scalable intelligence workflows across architectural, spatial, legal, and operational domains. 
-# Compliance & Risk Intelligence Systems (CRIS)
-
 ### AI-Assisted Regulatory, Environmental, and Spatial Validation Frameworks for Built Environment Planning Systems
 
 ---
